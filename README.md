@@ -28,14 +28,6 @@ Atualmente estou estudando **Java, lógica de programação e desenvolvimento de
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" />
 </p>
 
----
-
-## 🔥 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmiltonSJr&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&cache_seconds=1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiltonSJr&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=1" />
-</p>
 
 ---
 
