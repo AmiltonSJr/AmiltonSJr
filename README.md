@@ -1,8 +1,8 @@
 <!-- Banner -->
-<img src="software_engineer_blink.gif" width="100%" height="200" />
+<img src="software_engineer_blink.gif" width="100%" height="250" />
 
 <h1 align="center">👋 Olá, eu sou o Amilton Junior</h1>
-<h3 align="center">Desenvolvedor em constante evolução | Java • Lógica • Backend</h3>
+<h3 align="center">Desenvolvedor Fron/Back END constante evolução | Java • Lógica • Backend</h3>
 
 ---
 
@@ -53,7 +53,7 @@ Atualmente estou estudando **Java, lógica de programação e desenvolvimento de
   </a>
   
   <a href="https://www.linkedin.com/in/amilton-junior-794937315" target="_blank">
-    <img src="Linkedin.png"/>
+    <img src="AmiltonSJr/Linkedin.png"/>
   </a>
 </p>
 
