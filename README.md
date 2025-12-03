@@ -2,7 +2,7 @@
 <img src="software_engineer_blink.gif" width="100%" height="250" />
 
 <h1 align="center">👋 Olá, eu sou o Amilton Junior</h1>
-<h3 align="center">Desenvolvedor Front/Back END constante evolução | Java • Lógica • Backend</h3>
+<h3 align="center">Desenvolvedor Front/Back END constante evolução | Java • C • HTML • CSS • Java Script</h3>
 
 ---
 
@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por tecnologia e pela criação de soluções pr
 Atualmente estou estudando **Java, lógica de programação e desenvolvimento de sistemas**, com foco em construir bases sólidas para me tornar um programador completo.
 
 - 🔭 Estou trabalhando em pequenos projetos para fortalecer meu portfólio  
-- 📘 Estudando: Java, OOP, Git/GitHub e boas práticas  
+- 📘 Estudando: CIÊNCIAS DA COMPUTAÇÃO- 4ºsemestre. Com o foco em desenvolvimento de softwares ,banco de dados(sal) e web.  
 - 🎯 Objetivo atual: dominar backend e criar sistemas reais do zero  
 - ⚡ Fun fact: sou extremamente dedicado e aprendo muito rápido  
 
