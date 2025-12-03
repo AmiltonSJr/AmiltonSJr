@@ -49,7 +49,7 @@ Atualmente estou estudando **Java, lógica de programação e desenvolvimento de
 ## 🌎 Conecte-se Comigo
 <p align="left">
   <a href="https://www.instagram.com//jrsantos_am/" target="_blank">
-    <img src="instagram.jpg"/>
+    <img src="AmiltonSJr/instagram.jpg"/>
   </a>
   
   <a href="https://www.linkedin.com/in/amilton-junior-794937315" target="_blank">
