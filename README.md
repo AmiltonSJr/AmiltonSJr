@@ -2,7 +2,7 @@
 <img src="software_engineer_blink.gif" width="100%" height="250" />
 
 <h1 align="center">👋 Olá, eu sou o Amilton Junior</h1>
-<h3 align="center">Desenvolvedor Fron/Back END constante evolução | Java • Lógica • Backend</h3>
+<h3 align="center">Desenvolvedor Front/Back END constante evolução | Java • Lógica • Backend</h3>
 
 ---
 
