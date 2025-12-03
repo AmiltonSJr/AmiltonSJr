@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="software_engineer_blink.gif" width="100%" />
+<img src="software_engineer_blink.gif" width="100%" height="200" />
 
 <h1 align="center">👋 Olá, eu sou o Amilton Junior</h1>
 <h3 align="center">Desenvolvedor em constante evolução | Java • Lógica • Backend</h3>
