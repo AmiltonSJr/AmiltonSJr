@@ -26,7 +26,7 @@ Atualmente estou estudando **Java, lógica de programação e desenvolvimento de
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/path/lazarus-icon.svg" width="50" alt="Lazarus" />
+  <img src="imagem_2025-12-04_111930909.png" width="50" alt="Lazarus" />
 </p>
 
 
